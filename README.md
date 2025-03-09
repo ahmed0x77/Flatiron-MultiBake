@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=ULYMnkCysaE&t=435s
 https://www.youtube.com/watch?v=qjaCzhbxFAk
+https://www.youtube.com/watch?v=yxcmrNq7BU8
 
 
 # Flatiron Multi Bake Helper for Autodesk 3ds Max
