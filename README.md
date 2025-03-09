@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=ULYMnkCysaE&t=435s
+https://www.youtube.com/watch?v=qjaCzhbxFAk
+
+
 # Flatiron Multi Bake Helper for Autodesk 3ds Max
 
 This Macroscript provides a convenient dialog to select multiple Flatiron bake groups and bake then all in succession. This uses all bake settings as they currently are in Flatiron. If different groups need individual bake settings this is beyond the scope of this script but it can be used as a teplate for custom scripts.
